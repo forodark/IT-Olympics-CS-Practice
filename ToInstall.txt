@@ -1,0 +1,16 @@
+To install:
+----
+.NET SDK
+scoop install main/dotnet-sdk
+---
+Mono
+scoop install main/mono
+
+To compile & run using mono in cmd:
+mcs program.cs
+mono program.exe
+--- OR
+CS-Script
+https://github.com/oleg-shilo/cs-script
+To run using CS-Script in cmd:
+cscs program.cs
