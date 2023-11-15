@@ -1,0 +1,12 @@
+class Program {
+    public static void Main() {
+        //Printing Operations
+        System.Console.WriteLine(2+2);
+        System.Console.WriteLine(10/5);
+
+        System.Console.WriteLine(-1 + 4 * 6);
+        System.Console.WriteLine(( 35+ 5 ) % 7);
+        System.Console.WriteLine(14 + -4 * 6 / 11);
+        System.Console.WriteLine(2 + 15 / 6 * 1 - 7 % 2 );
+    }
+}
